@@ -1,5 +1,5 @@
 # CLUB-Generative-Network
-##Abstract
+#Abstract
 Abstract—This research is about the application of mutual
 information estimator for generative models. This research applies variational contrastive log-ratio upper bound (vCLUB)
 minimization algorithm to minimize the mutual information
